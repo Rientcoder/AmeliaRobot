@@ -1,5 +1,5 @@
 {
-      "name": "Amelia Robot",
+      "name": "Ayaka Robot",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,9 +9,9 @@
          "Amelia"
       ],
     
-   "logo":    "https://telegra.ph/file/329647a798cccb101aecf.jpg",
+   "logo":    "hhttps://telegra.ph/file/37308f371ae6b941258fc.jpg",
 
-   "repository": "https://github.com/xabhish3k/AmeliaRoBot",
+   "repository": "https://github.com/Rientcoder/AyakaRobot",
    "addons": [
           {
          "options": {
